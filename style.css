@@ -1,0 +1,50 @@
+
+
+
+
+*{
+    
+    padding: 0;
+    margin: 0;
+    font-family: 'Times New Roman', Times, serif;
+}
+nav{
+    background-color:red !important;
+}
+.requried{
+    color: red;
+}
+
+tr :first-child{
+    width: 150px;
+}
+
+
+.star-list{
+    display: flex;
+    list-style: none;
+    
+}
+.star{
+    padding: 3px;
+    font-size: 25px;
+    color: gray;
+    
+}
+.Orange{
+    color: orange;
+}
+.Yellow{
+    color: yellow;
+}
+.submit{
+    background-color:gainsboro;
+    border: none;
+    padding: 10px;
+    color: black;
+
+}
+h5{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
